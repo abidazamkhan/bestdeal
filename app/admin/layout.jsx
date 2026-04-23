@@ -1,8 +1,8 @@
 import AdminLayout from "@/components/admin/AdminLayout";
 
 export const metadata = {
-    title: "Techory. - Admin",
-    description: "Techory. - Admin",
+    title: "Techori. - Admin",
+    description: "Techori. - Admin",
 };
 
 export default function RootAdminLayout({ children }) {

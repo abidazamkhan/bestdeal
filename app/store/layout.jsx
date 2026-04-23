@@ -1,8 +1,8 @@
 import StoreLayout from "@/components/store/StoreLayout";
 
 export const metadata = {
-    title: "Techory. - Store Dashboard",
-    description: "Techory. - Store Dashboard",
+    title: "Techori. - Store Dashboard",
+    description: "Techori. - Store Dashboard",
 };
 
 export default function RootAdminLayout({ children }) {

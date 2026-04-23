@@ -6,8 +6,8 @@ import "./globals.css";
 const outfit = Outfit({ subsets: ["latin"], weight: ["400", "500", "600"] });
 
 export const metadata = {
-    title: "Techory. - Shop smarter",
-    description: "Techory. - Shop smarter",
+    title: "Techori. - Shop smarter",
+    description: "Techori. - Shop smarter",
 };
 
 export default function RootLayout({ children }) {

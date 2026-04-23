@@ -195,7 +195,7 @@ const Footer = () => {
               <span className="text-green-600 text-5xl leading-0">.</span>
             </Link>
             <p className="max-w-[410px] mt-6 text-sm">
-              Welcome to Techory, your ultimate destination for the latest and
+              Welcome to Techori, your ultimate destination for the latest and
               smartest gadgets. From smartphones and smartwatches to essential
               accessories, we bring you the best in innovation — all in one
               place.
@@ -237,7 +237,7 @@ const Footer = () => {
         </div>
         <div className="flex items-center justify-between gap-2">
           <p className="py-4 text-sm text-slate-500">
-            Copyright 2025 Techory All Right Reserved.
+            Copyright 2025 Techori All Right Reserved.
           </p>
            <p className="py-4 text-center text-xs md:text-sm">
         © 2026 Gadgety. Developed By <span className="font-medium ">Abid Azam Khan</span> · CEO of <span className="font-medium">Unipixer</span>
